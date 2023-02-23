@@ -1,3 +1,17 @@
 body{
     min-height: 100vh;
+    background-color:blue;
+}
+#container{
+    display:grid;
+    width:500px;
+    height:500px;
+    border:2px solid purple;
+    background-color:white;
+}
+#theInput{
+    width:100px;
+}
+#theButton{
+    width: 50px;
 }
